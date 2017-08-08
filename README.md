@@ -6,7 +6,7 @@ Clone repositiory
 
     git clone https://github.com/SinaEsmaeili/express-angularjs.git
 
-Copy files into your Angularjs project root directory
+Copy files into your Angular.js project root directory
 
 Run server
 
